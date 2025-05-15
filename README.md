@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I am a Flutter and NextJs Developer. Let's be enthusistic together 🔭.
+- I am a Flutter and NextJs Developer. Let's be enthusiastic together 🔭.
 <!--
 **codeTerrain/codeTerrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
